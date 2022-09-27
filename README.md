@@ -1,0 +1,5 @@
+- # sobre mim 
+- 👋 Ola,meu nome é @dudaluft
+- meu email de contato é @lucia.luft@escola.pr.gov.br
+- 👀 eu estou iteressada em aprender a programar novas linguagens
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
